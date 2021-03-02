@@ -1,1 +1,1 @@
-web: setup.sh && steamlit run penguins-app.py 
+web: sh setup.sh && steamlit run penguins-app.py 
